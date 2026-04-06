@@ -17,7 +17,7 @@ Used Car Market Data from India (n = 7,253; 11 independent variables; dependent 
 
 
 ## Result
-1.Model Selection : Gradient Boosting Model(R2 :0.89, MSED:0.09, 5-Fold CV Mean : 0.8946)
+Model Selection : Gradient Boosting Model(R2 :0.89, MSED:0.09, 5-Fold CV Mean : 0.8946)
 
 ## Insight
 #### Model Insight
