@@ -15,6 +15,23 @@ Used Car Price Prediction Model&Market Entry Strategy
 ## Data
 Used Car Market Data from India (n = 7,253; 11 independent variables; dependent variable: log_price)
 
+## Methodology  
+1. Data Preprocessing  
+   - Handled missing values and outliers  
+   - Generated derived variables based on domain knowledge  
+
+2. Feature Selection  
+   - Conducted statistical tests to remove insignificant variables  
+   - Addressed multicollinearity issues  
+
+3. Data Analysis  
+   - Applied multiple linear regression (OLS)  
+   - Performed residual analysis and model diagnostics  
+   - Implemented nonparametric machine learning models  
+
+4. Model Development  
+   - Built and evaluated Gradient Boosting model  
+   - Compared performance across different models  
 
 ## Result
 Model Selection : Gradient Boosting Model(R2 :0.89, MSED:0.09, 5-Fold CV Mean : 0.8946)
